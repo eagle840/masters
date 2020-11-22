@@ -1,0 +1,75 @@
+{
+  "Title": "My Computing Masters Degree",
+  "CLOUD": {
+    "Princples of Cloud Architectural Framework": {},
+		"Backend,  FrontEnd, Full Stack, API's & Webhooks": {},
+		"Cloud OS systems": {},
+		"GCP, AWS, Azure": {},
+		"CI/CD/IaC": {},
+		"Multisystem virtualization": {},
+		"Containerization Systems": {
+      "systems": ["docker", "docker-compose", "kubernetes"]
+    },
+		"System migration": {},
+    "Cloud based networking": {},
+    "DNS": {},
+		"Performance, Logging, SRE": {},
+		"Backup and DR": {},
+		"DIY cloud with OpenStack": {},
+		"Logs and Metrics": {}
+  },
+  "Security": {
+    "slim and flexible": {},
+    "better for configuration": {},
+    "IAM systems": {},
+		"Oauth & OIDC": {},
+		"MFA & Oauth": {},
+		"Encryption": {},
+		"Secrets": {},
+		"PKI & TLS": {
+      - www.openssl.org
+      - www.openssl.org/docs/standards.html
+    },
+		"VPN’s": {},
+		"Hacking, vulnerabilities, and pen testing": {},
+		"Protecting your systems": {},
+		"Frameworks and Law": {},
+		"IT business operation": {},
+		"Governance": {}
+    
+  },
+  "Data Engineering": {
+    "Big Data": {},
+    "AI & Machine learning": {},
+    "Analytics": {},
+    "Data formats, schemas and protocols": {},
+    "Database Systems": {
+      "Relational": {},
+      "noSQL": {
+        "systems": ["document", "graph", "wide-column", "Key:value"]
+      }
+    },
+    "Data pipelines and processing systems": {},
+    "IOT": {},
+    "Data Migration": {},
+    "Storage and Databases": {},
+    "Data sources": {}
+    
+  },
+  "Coding": {
+   	"Git and version control": {},
+    "Language Types - the many dimensions of": {
+      - tiobe index
+    },
+    "Bash Scripting": {},
+    "Python": {},
+    "Node.js": {},
+    ".net": {},
+    "HTML, CSS and Javascript": {},
+    "Programs vs Frameworks": {},
+    "Package Mgmnt": {},
+    "SDLC": {},
+    "YAML, JSON, XML": {}  
+  }
+
+}

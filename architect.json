@@ -1,0 +1,37 @@
+{
+  "ARCHITECT":{
+    "AWS":{
+      "Exams":"AWS Architect Assoc.","Complete":"done"
+    },
+    "AZURE":{"Exams":{
+      "70-533 Implementing Microsoft Azure Infrastructure Solutions":"done",
+      "70-535 Architecting Microsoft Azure Solutions":"done",
+      "AZ-302 Microsoft Azure Solutions Architect Certification Transition":"done",
+      "AZ-400 Microsoft Azure DevOps Solutions":"waiting"
+      
+    }
+      
+    },
+    "GCP":{
+      "Exams":
+      {
+        "GOOGLE CLOUD CERTIFIED Professional Cloud Architect":"up coming",
+        "GOOGLE CLOUD CERTIFIED Professional Data Engineer":"waiting"
+      }
+    },
+    "OPEN":{},
+    "Best Practice":{},
+    "Standards":{
+      "API":{
+        "REST":{}, 
+        "RESTful":{}
+      },
+      "Markup Language":{
+        "JSON":{},
+        "YAML":{},
+        "XML":{}
+      }
+    }
+  }
+  
+}

@@ -1,0 +1,79 @@
+###   convert into yaml??
+###   follow a schema? https://schema.org/Course
+###   https://schema.org/LearningResource
+### add links to 'my-degree blog post', into resume portfolio?
+
+#  add authN methods
+#  LDAP, x509, Kerberos, 
+
+
+{
+  "Title": "My Computing Masters Degree",
+  "CLOUD": {
+    "Princples of Cloud Architectural Framework": {},
+		"Backend,  FrontEnd, Full Stack, API's & Webhooks": {},
+		"Cloud OS systems": {},
+		"GCP, AWS, Azure": {},
+		"CI/CD/IaC": {},
+		"Multisystem virtualization": {},
+		"Containerization Systems": {
+      "systems": ["docker", "docker-compose", "kubernetes"]
+    },
+		"System migration": {},
+    "Cloud based networking": {},
+    "DNS": {},
+		"Performance, Logging, SRE": {},
+		"Backup and DR": {},
+		"DIY cloud with OpenStack": {},
+		"Logs and Metrics": {}
+  },
+  "Security": {
+    "slim and flexible": {},
+    "better for configuration": {},
+    "IAM systems": {},
+		"Oauth & OIDC": {},
+		"MFA & Oauth": {},
+		"Encryption": {},
+		"Secrets": {},
+		"PKI & TLS": {},
+		"VPN’s": {},
+		"Hacking, vulnerabilities, and pen testing": {},
+		"Protecting your systems": {},
+		"Frameworks and Law": {},
+		"IT business operation": {},
+		"Governance": {}
+    
+  },
+  "Data Engineering": {
+    "Big Data": {},
+    "AI & Machine learning": {},
+    "Analytics": {},
+    "Data formats, schemas and protocols": {},
+    "Database Systems": {
+      "Relational": {},
+      "noSQL": {
+        "systems": ["document", "graph", "wide-column", "Key:value"]
+      }
+    },
+    "Data pipelines and processing systems": {},
+    "IOT": {},
+    "Data Migration": {},
+    "Storage and Databases": {},
+    "Data sources": {}
+    
+  },
+  "Coding": {
+   	"Git and version control": {},
+    "Language Types - the many dimensions of": {},
+    "Bash Scripting": {},
+    "Python": {},
+    "Node.js": {},
+    ".net": {},
+    "HTML, CSS and Javascript": {},
+    "Programs vs Frameworks": {},
+    "Package Mgmnt": {},
+    "SDLC": {},
+    "YAML, JSON, XML": {}  
+  }
+
+}

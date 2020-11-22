@@ -1,0 +1,167 @@
+---
+Title: My Computing Masters Degree
+CLOUD:
+  Princples of Cloud Architectural Framework:
+    Web version:
+      - web 1.0
+      - web 2.0
+      - web 3.0
+  Backend,  FrontEnd, Full Stack, API's & Webhooks: {}
+  Cloud OS systems: {}
+  GCP, AWS, Azure: {}
+  CI/CD/IaC: 
+    components:
+      - builds
+      - releases
+      - artifacts
+    systems:
+      - terraform
+      - cloudify
+      - vagrant
+      - azure pipeline
+      - aws cloudformation
+      - jenkins
+    
+  Multisystem virtualization: {}
+  Containerization Systems:
+    systems:
+    - docker
+    - docker-compose
+    - kubernetes
+  System migration: {}
+  Cloud based networking: {
+    Tools: 
+      - nc
+      - wireshark
+      - postman
+      - fiddler
+  }
+
+  DNS: {}
+  Performance, Logging, SRE: {
+    Monitoring:{
+      - prometheous
+      - elasticsearch
+      - graghina
+      Metrics:{},
+      Logs:{}
+    }
+  }
+  Backup and DR: {}
+  DIY cloud with OpenStack: {}
+  Logs and Metrics: {
+    Logs: {
+      - elk, elasticstack
+
+    },
+    Metrics: {
+      - prometheous
+    }
+  }
+SECURITY:
+  slim and flexible: {}
+  better for configuration: {}
+  AAA: {
+    AuthN: {
+      HTTP: {
+
+      }
+    },
+    AuthZ: {},
+    Auditing: {}
+
+  }
+  IAM systems: {}
+  Oauth & OIDC: {}
+  MFA & Oauth: {}
+  Encoding: {
+    Types:
+      - Encoding
+      - Encryption
+      - Hashing
+      - Obfuscation
+      - Data at rest
+      - Data in transit
+      - Data in exe
+  }
+  Secrets: {}
+  PKI & TLS: {
+    letsencrypt: {
+      - certbot.eff.org, for shell acess
+      - chose a hostprovider that supports
+    }
+  }
+  VPN’s: {}
+  Hacking, vulnerabilities, and pen testing: {}
+  Protecting your systems: {}
+  
+  Frameworks and Law: {}
+  IT business operation: {}
+  Governance: {}
+
+DATA ENGINEERING:
+  Big Data: {}
+  AI & Machine learning: {}
+  Analytics: {}
+  Data formats, schemas and protocols: {}
+  Database Systems:
+    
+    Relational: {
+      systems: 
+      - MS SQL
+      - Orcale
+      - Opensource SQL
+    }
+    noSQL:
+      systems:
+        {Graph: ["Neo4j"]},
+      - document
+      - graph
+      - wide-column
+      - Key:value
+    Query Languages:
+      - SQL 
+      - TSQL (M$ SQL)
+      - SPARQL
+      - 
+  Data pipelines and processing systems: {}
+  IOT: {}
+  Data Migration: {}
+  Storage and Databases: {}
+  BlockChain: {}
+  Data sources: {}
+CODING:
+  Git and version control: {}
+  Language Types - the many dimensions of: {}
+  
+  Bash Scripting: {}
+  Python: {}
+  Node.js: {}
+  DotNet: {
+    - .NET framework
+    - .NET Core
+    - Mono & Xamarin
+    - .Net Standard
+    - CLR
+    - ASP
+  }
+  HTML, CSS and Javascript: {}
+  Programs vs Frameworks: {
+    - 12 factor
+  }
+  Package Mgmnt: {}
+  SDLC: {}
+  Data Serialization:
+    YAML, JSON, XML: 
+      JSON:
+      - JSON-LD
+      - JSON Schema
+      XML:
+      - WSDL
+      Others:
+      - MessagePack
+      - Avro
+      - Parquet
+      resouces: 
+        - https://en.wikipedia.org/wiki/Comparison_of_data-serialization_formats
+      
